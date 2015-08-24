@@ -205,4 +205,11 @@ Finally, we will build an interactive visualization aimed at capturing functiona
 #### Potential Pitfalls
 A challenge for building software tools is making them easy enough to install and use while making them flexible enough to account for a variety of use cases. Our solution to this is to try to set smart defaults so that the visualization can run without much alteration and to provide extensive documentation and examples via the github repository for the project. Additionally, we could provide Matlab scripts that can help organize data into the correct format.
 
+## Studies Completed and In Progress
+Aim \#1 has been completed and was published as a paper in 2012  ([doi:10.1016/j.neuron.2012.09.029](http://dx.doi.org/10.1016/j.neuron.2012.09.029)).
+
+Aim \#3 is 66% completed with github repositories and functioning prototypes for all three proposed visualizations (see [SpectraVis](https://github.com/edeno/SpectraVis), [RasterVis](https://github.com/edeno/RasterVis), and [glmVis](https://github.com/edeno/glmVis)) and a rough draft of the thesis chapter.
+
+Aim \#2 is still in progress.
+
 ## Bibliography and References
