@@ -1,4 +1,4 @@
-all:
+all: docs/Denovellis-Prospectus.md
 	# Convert Prospectus to PDF
 	pandoc docs/Denovellis-Prospectus.md \
 		-o public/Denovellis-Prospectus.pdf \
