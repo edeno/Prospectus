@@ -17,7 +17,7 @@ Local field potentials (LFPs) reflect the local activity of groups of neurons. T
 
 To measure if communication is context-dependent, we will compute the difference in coherence between rules (Color Rule – Orientation Rule). In previous work [@buschman_synchronous_2012], we successfully identified context-dependent differences in coherence in the beta band (19-40 Hz) between electrodes in the dlPFC (see @fig:figure2). Here we would like to determine if this is true for electrodes within ACC and between ACC and dlPFC.
 
-Additionally, to assess if these context-dependent differences change with the attention factors, we will compare the difference between rules in the least attention-demanding situations (see levels in Table 1 marked baseline) to the difference between rules in the most attention demanding. For example, for the factor *Congruency*, we will compare the difference in coherence between rules in the congruent condition to the difference in coherence between rules in the incongruent condition.
+Additionally, to assess if these context-dependent differences change with the attention factors, we will compare the difference between rules in the least attention-demanding situations (see levels in [@tbl:table1] marked baseline) to the difference between rules in the most attention demanding. For example, for the factor *Congruency*, we will compare the difference in coherence between rules in the congruent condition to the difference in coherence between rules in the incongruent condition.
 
 We expect in all of these situations that the amount of context-dependent coherence should increase for the preferred context (the rule for which the coherence is greater overall) in more attentionally-demanding conditions.
 
