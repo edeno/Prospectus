@@ -12,16 +12,18 @@ The first visualization, RasterVis, incorporates two canonical visualizations fo
 
 RasterVis uses interactivity and animation to supplement the raster plot and peri-event time histogram in order to make it easier for the user to accomplish typical tasks in the analysis of spiking data (See [@fig:figure4] for a screenshot of the RasterVis interface).
 
-For example, RasterVis allows for dynamic alignment of spike times and "on-the-fly" computation of peri-event histograms relative to experimental trial events (e.g. visual stimuli, timing of rewards, presentation of fixation points). Animated transitions emphasize how spike timing relative to trial event relates to another. This allows a user to quickly compare the timing of individual spikes and aggregate spiking (via histogram) to different cues and conditions. Different levels of aggregation (Gaussian smoothing) for the histogram can be compared as well.
+For example, RasterVis allows for dynamic alignment of spike times and "on-the-fly" computation of peri-event histograms relative to experimental trial events (e.g. visual stimuli, timing of rewards, presentation of fixation points). Animated transitions emphasize how spike timing relative to trial event relates to another. This helps a user quickly compare the timing of individual spikes and aggregate spiking (via histogram) to different cues and conditions. Different levels of aggregation (Gaussian smoothing) for the histogram can be compared as well.
 
 RasterVis also allows for dynamic sorting by experimental task factors. This feature creates different plots for each condition within the task factor. For example, if a task factor is a visual cue with two experimental conditions --- color and orientation --- sorting by the visual cue creates two plots for the color condition and the orientation condition. This is essential for multidimensional analysis which may compare several different factors and conditions.
 
-Finally, RasterVis allows for comparison between neurons. The user can browse neurons by subject, recording session, or name to easily find and compare neurons.
+Finally, RasterVis allows users to find and select neurons by subject, recording session, or name. This is useful for fast comparison between neurons, linking to other visualizations (other visualizations can directly link to a specific neuron by name via a parameter passed via the URL), and general exploratory analysis of the dataset.
 
 ![A static screenshot of the RasterVis interface.](figures/Figure4.png){#fig:figure4}
 
 #### glmVis
 We also will build an interactive visualization for the generalized linear models that will: (1) show the relationship between the multiple dimensions of the model fit over time, (2) show the relationship between multiple models, and (3) show the relationship between multiple brain areas. To show the relationship between multiple dimensions, we will use the parallel coordinate plots [@wegman_hyperdimensional_1990].
+
+[@fig:figure5] shows a prototype of the visualization, which we call glmVis.
 
 ![A static screenshot of the glmVis interface.](figures/Figure5.png){#fig:figure5}
 
