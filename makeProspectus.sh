@@ -31,3 +31,11 @@ pandoc docs/Denovellis-DissertationOutline.md \
   --self-contained \
   --smart \
   -o public/Denovellis-DissertationOutline.pdf
+
+# Convert Summary of Changes to PDF
+pandoc docs/summary-of-changes.md \
+  --normalize \
+  --standalone \
+  --self-contained \
+  --smart \
+  -o public/Denovellis-SummaryOfChanges.pdf
