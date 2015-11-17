@@ -3,7 +3,7 @@
 
 [Aim \#2](#aim2) had preliminary results appear in two Society for Neuroscience (SFN) posters (abstracts available [here][1] and [here][2]), but final results are still in progress.
 
-[Aim \#3](#aim3) is 66% completed with Github repositories and functioning prototypes for all three proposed visualizations (see [SpectraVis](https://github.com/edeno/SpectraVis), [RasterVis](https://github.com/edeno/RasterVis), and [glmVis](https://github.com/edeno/glmVis)) and a rough draft of the thesis chapter (included in submitted materials).
+[Aim \#3](#aim3) is 66% completed with Github repositories and functioning prototypes for all three proposed visualizations (see [SpectraVis](https://github.com/edeno/SpectraVis), [RasterVis](https://github.com/edeno/RasterVis), and [glmVis](https://github.com/edeno/glmVis)). An abstract has also been submitted for the COSYNE conference for SpectraVis.
 
 
 [1]: http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=3000f50b-7c71-42da-9796-a7da6471f141&cKey=6356905f-39f3-4b1b-9cda-bd137b07725e&mKey=%7B70007181-01C9-4DE9-A0A2-EEBFA14CD9F1%7D
